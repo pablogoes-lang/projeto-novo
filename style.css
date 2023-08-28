@@ -1,0 +1,34 @@
+.texto{
+    font-family: 'Josefin Sans', sans-serif;
+    width: 50%;
+    height: 90Vh;
+    position: relative;
+    bottom: 100vh;
+    font-size: 5vh;
+
+}
+ p{
+color: lightpink;
+
+    }
+    input{
+        border-color:pink;
+        height: 5vh;
+        width: 50vh; 
+        border-radius:20px ;
+
+    }
+span{
+    color: rgb(252, 216, 221);
+    font-weight: 300;
+}
+.card{
+    background-color: ;
+}
+#hero{
+    
+   margin-left: 50%;
+   position: relative;
+
+
+}
